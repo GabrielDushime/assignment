@@ -9,7 +9,6 @@ package assignment.datastructure;
 - BIZIMANA SAMUEL       221018876
 */
 
-package assignment.datastructure;
 
 public class MyLinkedList {
 
